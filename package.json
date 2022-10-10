@@ -3,7 +3,7 @@
   "displayName": "4am session theme",
   "description": "VS Code theme made by developers for developers",
   "version": "1.0.0",
-  "publisher": "4Themes"
+  "publisher": "4Themes",
   "license": "MIT",
   "icon": "icon.png",
   "engines": {
