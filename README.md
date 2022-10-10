@@ -1,5 +1,10 @@
-# 4am-session-theme
-4am-session-theme
+# 4am session theme
+
+The **4am session theme** is a collection of VSC themes. I have chosen *6 palettes* of *10 colors*, you can find them below. The palettes should be read by columns. You can view the preview of the *6 themes* in the table just below.
+
+<p align="center"><img src="https://user-images.githubusercontent.com/73474137/194851524-3543d12a-64dc-4782-9ac2-05b5affb1f84.png"></p>
+
+### Preview
 
 | Blue | Aqua |
 | - | - |
@@ -9,4 +14,17 @@
 | - | - |
 | ![image](https://user-images.githubusercontent.com/73474137/194836873-5074dabd-01d4-477b-a105-78c829822868.png) | ![image](https://user-images.githubusercontent.com/73474137/194842413-f3e6e3a3-18b0-4bd1-840d-eaa1558148b5.png) |
 
+| Orange | Yellow |
+| - | - |
+| ![image](https://user-images.githubusercontent.com/73474137/194849201-543baaca-90d5-478c-ae89-125bd9a99bac.png) | ![image](https://user-images.githubusercontent.com/73474137/194850771-e3b8e6d8-86d6-4b4b-8163-68a61c02b438.png) |
 
+### How to use the theme
+
+Go to VSC and do the `Ctrl + K`, `Ctrl + T` combinations, and type the name of the theme you want. Here you have the name's of the themes:
+
+- 4am session *(blue)*
+- 4am session *(aqua)*
+- 4am session *(green)*
+- 4am session *(red)*
+- 4am session *(orange)*
+- 4am session *(yellow)*
