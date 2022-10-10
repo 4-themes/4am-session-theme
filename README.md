@@ -18,6 +18,10 @@ The **4am session theme** is a collection of VSC themes. I have chosen *6 palett
 | - | - |
 | ![image](https://user-images.githubusercontent.com/73474137/194849201-543baaca-90d5-478c-ae89-125bd9a99bac.png) | ![image](https://user-images.githubusercontent.com/73474137/194850771-e3b8e6d8-86d6-4b4b-8163-68a61c02b438.png) |
 
+### Icons 
+
+If you want a pack of icons that matches great with the theme, you can download it here. [Light icons for VS Code](https://marketplace.visualstudio.com/items?itemName=4Themes.Light-icons) !
+
 ### How to use the theme
 
 Go to VSC and do the `Ctrl + K`, `Ctrl + T` combinations, and type the name of the theme you want. Here you have the name's of the themes:
