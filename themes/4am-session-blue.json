@@ -1,6 +1,7 @@
 {
     "name": "Cody",
     "type": "dark",
+    "author": "Jasiukiewicz Tymon",
     "semanticHighlighting": true,
     "semanticTokenColors": {
       "enumMember": {
@@ -2013,9 +2014,9 @@
       "tab.activeBorderTop": "#00000000",
       "tab.inactiveBackground": "#1b224e",
       "tab.inactiveForeground": "#ecedefa7",
-      "scrollbarSlider.background": "#79797966",
-      "scrollbarSlider.hoverBackground": "#7979794c",
-      "scrollbarSlider.activeBackground": "#79797997",
+      "scrollbarSlider.background": "#101321",
+      "scrollbarSlider.hoverBackground": "#101321",
+      "scrollbarSlider.activeBackground": "#101321",
       "progressBar.background": "#3e4e8e",
       "widget.shadow": "#0000005c",
       "editorWidget.foreground": "#ecedefbf",
