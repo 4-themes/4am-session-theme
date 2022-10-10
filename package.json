@@ -1,0 +1,55 @@
+{
+  "name": "4am-session-theme",
+  "displayName": "4am session theme",
+  "description": "VS Code theme made by developers for developers",
+  "version": "1.0.0",
+  "publisher": "4Themes"
+  "license": "MIT",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "4am",
+    "session",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "4am session (blue)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/4am-session-blue.json"
+      },
+      {
+        "label": "4am session (aqua)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/4am-session-aqua.json"
+      },
+      {
+        "label": "4am session (green)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/4am-session-green.json"
+      },
+      {
+        "label": "4am session (red)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/4am-session-red.json"
+      },
+      {
+        "label": "4am session (orange)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/4am-session-orange.json"
+      },
+      {
+        "label": "4am session (yellow)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/4am-session-yellow.json"
+      }
+    ]
+  }
+}
